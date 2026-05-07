@@ -34,6 +34,8 @@ BiliNote 的应用场景非常广泛：
 
 会议记录自动化
 
+视频教程：https://www.youtube.com/watch?v=okbx6127fIA
+
 ### BiliNote windows版一键启动整合包下载链接：
 
 Patreon：https://www.patreon.com/posts/157517903
